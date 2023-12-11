@@ -1,0 +1,212 @@
+@charset "utf-8";
+
+.img1 {
+    display: inline-block;
+    float:left;
+    width: 100px;
+	margin-left: 50px;
+}
+
+.img2{	
+	width: 100%;
+}
+.myDiv1 {
+	height:130px;
+  	border: 5px solid transparent;
+  	padding: 10px;
+	background-color: #012265;
+}
+.myDiv2 {
+	height:10px;
+ 	background-color:#ffde00;
+  	border: 1px solid transparent;
+}
+.myDiv3 {
+	height:20px;
+  	border: 5px solid transparent;
+	padding: 5px;
+	background-color: #012265;
+}
+.myDiv3 p{
+	text-align: left;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: auto;
+ 	text-indent: 10px;
+	font-size: 20px;	
+}
+.myDiv10 {
+	width: 1200px;
+	height: 80px;
+	margin: 30px auto;	
+	background: #012265;
+	position: relative;
+}
+.myDiv10 p{
+	margin: 0;
+	padding: 0; 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	text-align: center;
+	position: relative;
+	top: 50%;
+	color: white;
+	transform: translateY(-50%);
+}
+.myDiv10 {
+	width: 1200px;
+	height: 80px;
+	margin: 30px auto;	
+	background: #012265;
+	position: relative;
+}
+.myDiv11 {
+	width: 1200px;
+	height: 500px;
+	margin: 10px auto;	
+	background: #ffde00;
+	position: relative;
+}
+
+.myDiv11 p{
+	margin: 35px; 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	text-align: justify;
+	position: relative;
+	color: white;
+}
+.myDiv12 {
+	width: 1200px;
+	height: 300px;
+	margin: 10px auto;	
+	background: #ffde00;
+	position: relative;
+}
+
+.myDiv12 p{
+	margin: 35px; 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 30px;
+	text-align: justify;
+	position: relative;
+	color: white;
+}
+.myDiv4 {
+	width: 700px;
+	height: 80px;
+	margin: 10px auto;	
+	background: #ffde00;
+	position: relative;
+}
+.myDiv4 p{
+	margin: 0;
+	padding: 10px; 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	text-align: center;
+	position: relative;
+	top: 50%;
+	color: #444444;
+	transform: translateY(-50%);
+}
+.myDiv5 {
+	width: 700px;
+	height: 80px;
+	margin: 30px auto;	
+	background: #ffde00;
+	position: relative;
+}
+.myDiv5 p{
+	margin: 0;
+	padding: 0; 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	text-align: center;
+	position: relative;
+	top: 50%;
+	color: #444444;
+	transform: translateY(-50%);
+}
+.myDiv6 {
+	width: 700px;
+	height: 80px;
+	margin: 30px auto;	
+	background: #ffde00;
+	position: relative;
+}
+.myDiv6 p{
+	margin: 0;
+	padding: 0; 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	text-align: center;
+	position: relative;
+	top: 50%;
+	color: #444444;
+	transform: translateY(-50%);
+}
+.myDiv7 {
+	width: 700px;
+	height: 80px;
+	margin: 30px auto;	
+	background: #ffde00;
+	position: relative;
+}
+.myDiv7 p{
+	margin: 0;
+	padding: 0; 
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+	text-align: center;
+	position: relative;
+	top: 50%;
+	color: #444444;
+	transform: translateY(-50%);
+}
+h1 {text-align: left;
+	color: #ffde00;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 20px auto;
+ 	text-indent: 10px;
+	font-size: 40px;
+}
+h4 {text-align: left;
+	color: white;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 20px auto;
+ 	text-indent: 13px;
+	font-size: 20px;
+}
+
+a:link {
+  color: #444444;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+a:hover {
+  color: green;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+.myDiv8 {
+	height:10px;
+ 	background-color:#ffde00;
+  	border: 1px solid transparent;
+}
+.myDiv9 {
+	height:50px;
+  	border: 5px solid transparent;
+  	padding: 10px;
+	background-color: #012265;
+}
